@@ -13,8 +13,6 @@
     "npm": "~5.7.1"
   },
   "dependencies": {
-    "aws-sdk": "2.184.0",   
-    "debug": "2.6.3",
     "jsonpath": "^1.0.2",
     "lodash": "^4.17.15",
     "log4js": "2.5.2",
@@ -26,7 +24,6 @@
     "unzip": "0.1.11",
     "unzipper": "0.10.4",
     "uuid": "3.2.1",
-    "xml2js": "0.4.19"  
   },
   "devDependencies": {
     "chai": "3.5.0",
@@ -42,7 +39,6 @@
     "proxyquire": "2.0.1",
     "sinon": "3.1.0",
     "supertest": "3.0.0",
-    "pdfinfo": "0.0.3"
   },
   "publishConfig": {
     "registry":"https://npm.pkg.github.com/"
