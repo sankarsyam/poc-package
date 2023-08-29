@@ -18,7 +18,7 @@
     "log4js": "2.5.2",
     "moment": "2.21.0",
     "nodemon": "^1.19.3",
-    "openpgp": "4.5.5",
+    "openpgp": "4.10.11",
     "request-ip": "2.0.1",
     "sqs-consumer": "3.8.0",
     "unzip": "0.1.11",
